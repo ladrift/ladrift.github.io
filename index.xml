@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ladrift</title>
-    <link>http://ladrift.github.io/</link>
+    <link>https://ladrift.github.io/</link>
     <description>Recent content on ladrift</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 28 Aug 2016 22:27:34 +0800</lastBuildDate>
-    <atom:link href="http://ladrift.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ladrift.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About me</title>
-      <link>http://ladrift.github.io/post/about-me/</link>
+      <link>https://ladrift.github.io/post/about-me/</link>
       <pubDate>Sun, 28 Aug 2016 22:27:34 +0800</pubDate>
       
-      <guid>http://ladrift.github.io/post/about-me/</guid>
+      <guid>https://ladrift.github.io/post/about-me/</guid>
       <description>&lt;p&gt;Hello, world. I am ladrift.&lt;/p&gt;
 
 &lt;p&gt;我是严子怡。&lt;/p&gt;
