@@ -31,15 +31,22 @@
 
 &lt;p&gt;Here are all MOOCs or open-courseware courses I have learned or learning.&lt;/p&gt;
 
-&lt;p&gt;2016 (second half year):&lt;/p&gt;
+&lt;p&gt;2016:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Programming Language
+&lt;li&gt;&lt;p&gt;Ruby on Rails Development&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/learn/programming-languages/home/welcome&#34;&gt;Part 1&lt;/a&gt; (&lt;a href=&#34;https://www.coursera.org/account/accomplishments/certificate/LFHUP6MQ734P&#34;&gt;Certificate&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/learn/programming-languages-part-b/home/welcome&#34;&gt;Part 2&lt;/a&gt; (WIP&amp;hellip;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/learn/programming-languages-part-c/home/welcome&#34;&gt;Part 3&lt;/a&gt; (WIP&amp;hellip;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/learn/ruby-on-rails-intro&#34;&gt;Ruby on Rails: An Introduction&lt;/a&gt; (&lt;a href=&#34;https://www.coursera.org/account/accomplishments/certificate/N98NLVBF9UYY&#34;&gt;certificate&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/learn/rails-with-active-record&#34;&gt;Rails with Active Record&lt;/a&gt; (&lt;a href=&#34;https://www.coursera.org/account/accomplishments/verify/TBASBKBF6Q8M&#34;&gt;certificate&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Programming Language&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/learn/programming-languages&#34;&gt;Part 1&lt;/a&gt; (&lt;a href=&#34;https://www.coursera.org/account/accomplishments/certificate/LFHUP6MQ734P&#34;&gt;certificate&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/learn/programming-languages-part-b&#34;&gt;Part 2&lt;/a&gt; (WIP&amp;hellip;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/learn/programming-languages-part-c&#34;&gt;Part 3&lt;/a&gt; (WIP&amp;hellip;)&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/specializations/cloud-computing&#34;&gt;Cloud Computing&lt;/a&gt;&lt;/p&gt;
@@ -52,9 +59,9 @@
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/learn/networks-illustrated/home/welcome&#34;&gt;Networks Illustrated&lt;/a&gt; (WIP&amp;hellip;)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/learn/networks-illustrated&#34;&gt;Networks Illustrated&lt;/a&gt; (WIP&amp;hellip;)&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/learn/friends-money-bytes/home/welcome&#34;&gt;Friends, Money and Bytes&lt;/a&gt; (WIP&amp;hellip;)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/learn/friends-money-bytes&#34;&gt;Friends, Money and Bytes&lt;/a&gt; (WIP&amp;hellip;)&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;========================================&lt;/p&gt;
@@ -73,8 +80,8 @@
 &lt;h2 id=&#34;network&#34;&gt;Network&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/learn/networks-illustrated/home/welcome&#34;&gt;Networks Illustrated&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/learn/friends-money-bytes/home/welcome&#34;&gt;Friends, Money and Bytes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/learn/networks-illustrated&#34;&gt;Networks Illustrated&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/learn/friends-money-bytes&#34;&gt;Friends, Money and Bytes&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;rust&#34;&gt;Rust&lt;/h2&gt;
