@@ -2,7 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ladrift.github.io/moocs/</loc>
+    <loc>https://ladrift.github.io/</loc>
+    <lastmod>2016-08-28T22:27:34+08:00</lastmod>
   </url>
   
   <url>
@@ -11,15 +12,7 @@
   </url>
   
   <url>
-    <loc>https://ladrift.github.io/post/</loc>
-    <lastmod>2016-08-28T22:27:34+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ladrift.github.io/</loc>
-    <lastmod>2016-08-28T22:27:34+08:00</lastmod>
-    <priority>0</priority>
+    <loc>https://ladrift.github.io/moocs/</loc>
   </url>
   
 </urlset>

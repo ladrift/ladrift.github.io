@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on ladrift</title>
+    <title>Post-rsses on ladrift</title>
     <link>https://ladrift.github.io/post/index.xml</link>
-    <description>Recent content in Posts on ladrift</description>
+    <description>Recent content in Post-rsses on ladrift</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 28 Aug 2016 22:27:34 +0800</lastBuildDate>
